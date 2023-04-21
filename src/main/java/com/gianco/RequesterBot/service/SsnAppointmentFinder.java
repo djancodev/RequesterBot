@@ -14,8 +14,8 @@ import org.springframework.stereotype.Service;
 import java.time.LocalDate;
 import java.util.List;
 
-import static com.gianco.RequesterBot.Utils.DateUtils.formatLocalDate;
-import static com.gianco.RequesterBot.Utils.DateUtils.getLocalDateFromJson;
+import static com.gianco.RequesterBot.utils.DateUtils.formatLocalDate;
+import static com.gianco.RequesterBot.utils.DateUtils.getLocalDateFromJson;
 
 @Service
 public class SsnAppointmentFinder {

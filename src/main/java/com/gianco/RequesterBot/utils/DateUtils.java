@@ -1,4 +1,4 @@
-package com.gianco.RequesterBot.Utils;
+package com.gianco.RequesterBot.utils;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

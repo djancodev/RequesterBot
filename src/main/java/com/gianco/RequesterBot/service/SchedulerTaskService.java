@@ -21,7 +21,7 @@ public class SchedulerTaskService {
     @Autowired
     NotifierService notifierService;
 
-    @Scheduled(fixedRate = 10000)
+    @Scheduled(fixedRate = 300000)
     public void doRequest() {
         String response = requesterService.doRequest();
         Result result = ssnAppointmentFinder.isFound(response);
