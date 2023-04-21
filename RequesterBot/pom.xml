@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.gianco</groupId>
 	<artifactId>RequesterBot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>RequesterBot</name>
 	<description>Requester Bot</description>
 	<properties>
