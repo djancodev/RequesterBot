@@ -1,0 +1,6 @@
+url: https://www.sanita.puglia.it/sanita-api/appointments/patient/CRGPLA68E46F784Q?healthServicesRegCodes=10481&deliveryType=SSN&companyCodes=C160112&priority=P&exemption=C03&cupDate=2023-04-22&platform=WEB&accessMode=ANONIMO&functionality=PRENOTAZIONE_DEMATERIALIZZATA
+token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX25hbWUiOiJDUkdQTEE2OEU0NkY3ODRRIiwic2NvcGUiOlsicmVhZCIsIndyaXRlIl0sIm9yZ2FuaXphdGlvbiI6IkNSR1BMQTY4RTQ2Rjc4NFEgLSBQdWdsaWFTYWx1dGUiLCJleHAiOjE2ODIxMDM3OTEsImF1dGhvcml0aWVzIjpbIlJPTEVfVVNFUiJdLCJqdGkiOiI1ODQxYjgyMC1hODYxLTQ3ZWQtODQzYi03MzNjYWJjM2U2ZjciLCJjbGllbnRfaWQiOiJwdWdsaWFTYWx1dGVQb3J0YWwtY2lkIn0.S341ISaCLLGul_9rjVvj2k2M4bKnuCvh2BvX7FoRL-o
+endDate:
+  year: 2023
+  month: 7
+  day: 31
