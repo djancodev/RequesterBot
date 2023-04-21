@@ -49,7 +49,7 @@ public class SsnAppointmentFinder {
 
     private String getTextMessage(List<Appointment> list) {
         StringBuilder sb = new StringBuilder();
-        sb.append("CI SONO POSTI DISPONIBILI!!!\n");
+        sb.append("!!! POSTI DISPONIBILI !!!\n\n");
         list.forEach(a -> {
             LocalDate date = getLocalDateFromJson(a.getDate());
             sb.append(formatLocalDate(date)).append(" ").append(a.getTime()).append("\n")
